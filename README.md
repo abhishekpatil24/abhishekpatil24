@@ -4,7 +4,7 @@
 
 I’m a Cybersecurity Master's student with a passion for cybersecurity, specializing in areas such as network security, penetration testing, and secure web development. My focus is on learning, experimenting, and contributing to secure and reliable software solutions.
 
-![Mr. Robot GIF]([URL_TO_YOUR_GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J2cGw2NXN0dHo0N3ZrenNvamI3MWJ1dmxxaHgzbTZldTM5NDRuNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjHWpiVIOGXT5l9m/giphy.gif))
+![Mr. Robot GIF]([URL_TO_YOUR_GIF](<iframe src="https://giphy.com/embed/3oEjHWpiVIOGXT5l9m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/telenet-hbo-mr-robot-play-more-3oEjHWpiVIOGXT5l9m">via GIPHY</a></p>))
 ---
 
 ### 🔍 Areas of Interest
